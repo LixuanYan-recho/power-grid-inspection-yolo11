@@ -1,0 +1,6 @@
+path: D:/you only look once/InspectionDataSet-main/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: defective
+  1: normal
